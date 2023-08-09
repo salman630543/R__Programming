@@ -1,0 +1,6 @@
+n = c(1,2,3,4,5)
+ch = c("a","b","c","d")
+bool = c(TRUE,FALSE,TRUE,TRUE,FALSE)
+cat("Type of Numeric Vector:",typeof(n),"\n")
+cat("Type of Character Vector:",typeof(ch),"\n")
+cat("Type of Logical Vector:",typeof(bool),"\n")
